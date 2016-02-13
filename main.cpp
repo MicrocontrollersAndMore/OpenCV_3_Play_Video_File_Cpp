@@ -1,4 +1,4 @@
-// Play_Video_File_Cpp.sln
+// PlayVideoFileCpp.sln
 // main.cpp
 
 #include<opencv2/core/core.hpp>
